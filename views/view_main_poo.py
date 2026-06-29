@@ -18,7 +18,7 @@ class Main:
 
         self.janela.geometry(f'{largura}x{altura}+{x}+{y}')
         self.janela.title('Sistema de controle')
-        self.janela.iconbitmap(default='./imgs/user0.ico')
+        #self.janela.iconbitmap(default='./imgs/user0.ico')
         #janela.geometry('1024x680')
         #self.janela.resizable(False,False)
 

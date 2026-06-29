@@ -16,7 +16,7 @@ y=int((altura_tela / 2) - (altura / 2))
 
 janela_login.geometry(f'{largura}x{altura}+{x}+{y}')
 janela_login.resizable(False, False)
-janela_login.iconbitmap(default='./imgs/user0.ico')
+#janela_login.iconbitmap(default='./imgs/user0.ico')
 janela_login.title("Login")
 
 
