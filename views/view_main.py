@@ -90,10 +90,11 @@ tabela.place(relx=0.08, rely=0.5, relwidth=0.8)
 direitos = tk.Label(janela, text="@Created By Jeasi21@", font=('Helvatica', 8))
 direitos.place(relx=0.41, rely=0.97)
 
-nomes = ['maria', 'angela', 'gleice', 'gabriela']
 
-for i in nomes:
-    tabela.insert("",tk.END,values=i)
+#nomes = ['maria', 'angela', 'gleice', 'gabriela']
+
+#for i in nomes:
+    #tabela.insert("",tk.END,values=i)
 
 
 #tabelaReload()
